@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "68773859863",
+    "project_id": "bloquedenotas",
+    "storage_bucket": "bloquedenotas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68773859863:android:fc32e16f94392b34798252",
+        "android_client_info": {
+          "package_name": "com.mycompany.notas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68773859863-0mtpjdqbhkrj50h11efqhc2o2t27n9ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs0jpVDkdUcevWfTUgvBqbqlt7rOVdBYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68773859863-0mtpjdqbhkrj50h11efqhc2o2t27n9ld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68773859863-ttlv50k8jfq0ljqg9j0d8c9bi49iajbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.notas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
